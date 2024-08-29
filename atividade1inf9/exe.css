@@ -1,0 +1,27 @@
+section{
+    display: flex;
+    flex-direction: row;
+}
+.um{
+    background-color: white;
+    width: 410px;
+    height: 450px;
+    box-shadow: 10px 10px 7px;
+    border-radius: 20px;
+}
+.dois{
+    background-color: white;
+    width: 410px;
+    height: 450px;
+    margin-left: 20px;
+    box-shadow: 10px 10px 7px;
+    border-radius: 20px;
+}
+body{
+    background-color: powderblue;
+    text-align: left;
+}
+p{
+    margin-left: 4px;
+}
+
